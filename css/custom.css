@@ -79,3 +79,13 @@ a {
 .caption-content p {
 	color: rgb(187, 187, 187);
 }
+
+.intro-text .name a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.btn-success {
+	background-color: #543535;
+	border-color: #543535;
+}
